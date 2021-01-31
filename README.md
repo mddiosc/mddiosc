@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate meetup
 - 💬 Ask me about web dev
 - 😄 Pronouns: 'he/him'
-- ⚡ Fun fact:
+<!-- - ⚡ Fun fact: -->
 
 ---
 
