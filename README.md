@@ -4,8 +4,6 @@
 
 ### 💻 Frontend Developer
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [Air Europa][aireuropawebsite]
 - 🌱 I’m currently learning React, Vue3, NodeJs
 - 👯 I’m looking to collaborate meetup
