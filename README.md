@@ -51,6 +51,10 @@
 
 <img align="left" alt="Vuetify" width="26px" src="https://migueldedioscallesportfolio.s3.eu-west-3.amazonaws.com/skills/vuetify.png" />
 
+<img align="left" alt="Vuetify" width="26px" src="https://migueldedioscallesportfolio.s3.eu-west-3.amazonaws.com/skills/docker.png" />
+
+<img align="left" alt="Vuetify" width="26px" src="https://migueldedioscallesportfolio.s3.eu-west-3.amazonaws.com/skills/firebase.png" />
+
 </br>
 
 <!-- Links -->
