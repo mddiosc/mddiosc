@@ -1,7 +1,5 @@
 ### Hi [mddiosc][website] here 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mddiosc?color=%231DA1F2&label=mddiosc&logo=twitter&style=flat-square)](https://twitter.com/mddiosc)
-
 ### 💻 Frontend Developer
 
 <!-- - 🔭 I’m currently working on [Triggle][trigglesite] -->
