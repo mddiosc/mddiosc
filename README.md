@@ -4,9 +4,10 @@
 
 ### 💻 Frontend Developer
 
-- 🔭 I’m currently working on [Triggle][trigglesite]
+<!-- - 🔭 I’m currently working on [Triggle][trigglesite] -->
+
 - 👨🏻‍💻 I'm currently working with React, NextJs, Express, Styled Components...
-- 🌱 I’m currently learning Vue3, NodeJs
+- 🌱 I’m currently learning NestJS
 - 👯 I’m looking to collaborate meetup
 - 💬 Ask me about web dev
 - 😄 Pronouns: 'he/him'
@@ -60,4 +61,3 @@
 <!-- Links -->
 
 [website]: https://migueldedioscalles.com
-[trigglesite]: https://www.triggle.app/es-ES
